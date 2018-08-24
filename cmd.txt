@@ -1,0 +1,7 @@
+hugo
+cd public
+git remote add origin https://github.com/ptrcko/ptrcko.github.io
+git add .
+git commit -m "Tweaks"
+git push origin master -f
+

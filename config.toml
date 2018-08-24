@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "ptrcko"
+baseurl = "https://ptrcko.com/"
 languageCode = "en"
 title = "Patrick O'Sullivan"
 theme = "hugo-theme-cactus-plus"

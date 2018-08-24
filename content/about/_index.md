@@ -4,12 +4,13 @@ title = "About"
 hidden = true
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+[Jepto](https://jepto.com/) is a marketing automation tool for digital agencies.
+I am lucky to be working with 5 passionate developers and designers to bring this business to life.
+If you are a digital agency looking for efficiencie, automation or generally an easier life, sign up for the [beta](https://jepto.com/) to get early access to the platform.
 
 ***
 
-### Lorem ipsum dolor.
+### Software, automation and business 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
+I've started to go grey in places. It happens when you have over 20 years of experience applying software and automation in a range of businesses.
+
